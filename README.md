@@ -3,8 +3,8 @@
 A Chatbot chat app built using the Flutter framework and Gemini 1.5 Flash language model.
 
 <h2>Screenshots</h2>
-<img src="https://i.ibb.co/PsGt512q/cb-1.jpg" alt="Screenshot 1" height="200px">
-<img src="https://i.ibb.co/PGjWDsh9/cb2.jpg" alt="Screenshot 2">
+<img src="https://i.ibb.co/PsGt512q/cb-1.jpg" alt="Screenshot 1" height="500px">
+<img src="https://i.ibb.co/PGjWDsh9/cb2.jpg" alt="Screenshot 2" height="500px">
 
 
 <h2>Features</h2>
