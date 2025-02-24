@@ -28,6 +28,6 @@ A Chatbot chat app built using the Flutter framework and Gemini 1.5 Flash langua
 
 <h2>Development by</h2>
 <ul>
-    <li>Gemini - <a href="https://aistudio.google.com/"></a></li>
-    <li>Flutter - <a href="https://flutter.dev/"></a></li>
+    <li>Gemini - <a href="https://aistudio.google.com/">https://aistudio.google.com/</a></li>
+    <li>Flutter - <a href="https://flutter.dev/"></a>https://flutter.dev/</li>
 </ul>
