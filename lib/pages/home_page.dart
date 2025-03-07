@@ -48,7 +48,9 @@ class _HomePageState extends State<HomePage> {
         onLongPressMessage: (message) {
           _copyToClipboard(context, message.text);
         },
-        currentUserContainerColor: Color.fromARGB(255, 55, 175, 119),
+        currentUserContainerColor: Color.fromARGB(255, 55, 175, 119), //User container color
+        containerColor: Color.fromARGB(255, 104, 104, 104), // Bot response color
+        textColor: Colors.white,
       ),
       inputOptions: InputOptions(
         inputDecoration: InputDecoration(
